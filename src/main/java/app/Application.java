@@ -8,6 +8,6 @@ public class Application {
 
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);
-        System.out.println("Rodando servidor...");
+        System.out.println("Rodando servidor...   ");
     }
 }
