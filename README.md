@@ -1,2 +1,0 @@
-# Luivwaki
-Servidor - Spring + Hibernate
